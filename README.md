@@ -1,6 +1,6 @@
 # 3D rotating triangle
 
-##Installing
+## Installing
 
 **Python 3.9 or higher is required**
 ```
